@@ -1,6 +1,6 @@
 # ConformalHydride
 
-**Conformal certification of reversible metal hydrides exposes the statistical limits of machine-learning screening for hydrogen storage**
+**Certifying reversible metal hydrides: the statistical limits of machine-learning screening for hydrogen storage**
 
 ![Python](https://img.shields.io/badge/python-3.12-blue) ![GPU](https://img.shields.io/badge/GPU-Tesla%20T4%20(free%20tier)-green) ![Runtime](https://img.shields.io/badge/full%20run-~18%20min-orange)
 
@@ -66,8 +66,7 @@ rHEA candidate pool. If you use this repository, please cite the dataset and cur
 
 and the present work:
 
-> Khairbek, A. A. Conformal certification of reversible metal hydrides exposes the statistical limits of
-> machine-learning screening for hydrogen storage. *(manuscript, 2026 — citation to be updated on publication).*
+> Khairbek, A. A. Certifying reversible metal hydrides: the statistical limits of machine-learning screening for hydrogen storage. *(manuscript, 2026 — citation to be updated on publication).*
 
 ## License
 
